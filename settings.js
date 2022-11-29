@@ -2,7 +2,7 @@ const chalk = require("chalk")
 const fs = require("fs")
 
 global.hituet = 0
-global.gopayno = "085797375014"
+global.gopayno = "chatowner"
 global.danano = "chatowner"
 global.shopeepayno = "chatowner"
 global.creator = "6285797375015@s.whatsapp.net"
